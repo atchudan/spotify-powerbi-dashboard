@@ -1,4 +1,4 @@
-# 🎧 Spotify Global Music Analysis Dashboard (2009–2025) by Atchudan
+# 🎧 Spotify Global Music Analysis Dashboard (2009–2025) 
 This project analyzes the Spotify Global Music Dataset (2009–2025) using Power BI, uncovering insights on track trends, artist performance, genre popularity, and music evolution over the years.
 The dashboard includes data cleaning, transformation, modeling, and multi-page storytelling.
 
