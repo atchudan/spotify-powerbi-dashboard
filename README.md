@@ -93,6 +93,7 @@ Insights:
 - Some niche genres show very high popularity scores
 
 # 📂 Repository Structure
+
 spotify-powerbi-dashboard/
 │
 ├── Spotify_Dashboard.pbix
@@ -105,14 +106,14 @@ spotify-powerbi-dashboard/
      └── artist_genres.png
 
 # 🚀 How to Use the Dashboard
-1.Download the .pbix file
-2.Open it in Power BI Desktop
-3.Explore the visuals using slicers:
--Artist
--Genre
--Year
--Explicit
-4.Switch pages using the bottom tabs
+1. Download the .pbix file
+2. Open it in Power BI Desktop
+3. Explore the visuals using slicers:
+   -Artist
+   -Genre
+   -Year
+   -Explicit
+4. Switch pages using the bottom tabs
 
 # 🤝 Feedback & Contributions
 Feel free to open issues, suggest improvements, or fork the repository.
