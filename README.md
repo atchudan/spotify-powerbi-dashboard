@@ -100,10 +100,10 @@ spotify-powerbi-dashboard/
 ├── README.md
 │
 └── screenshots/
-     ├── executive_summary.png
-     ├── artist_insights.png
-     ├── track_analysis.png
-     └── artist_genres.png
+├── executive_summary.png
+├── artist_insights.png
+├── track_analysis.png
+└── artist_genres.png
 
 
 # 🚀 How to Use the Dashboard
