@@ -105,6 +105,7 @@ spotify-powerbi-dashboard/
      ├── track_analysis.png
      └── artist_genres.png
 
+
 # 🚀 How to Use the Dashboard
 1. Download the .pbix file
 2. Open it in Power BI Desktop
